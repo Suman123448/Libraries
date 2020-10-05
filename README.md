@@ -1,7 +1,7 @@
 Overview
 ========
 
-This repository contains various open source libraries precompiled as static libraries and ready-to-use for Mac OS X (x86_64), iPhone Simulator (i386, x86_64) and iPhone OS (armv7, arm64) with bitcode. The build scripts are also provided.
+This text repository contains various open source libraries precompiled as static libraries and ready-to-use for Mac OS X (x86_64), iPhone Simulator (i386, x86_64) and iPhone OS (armv7, arm64) with bitcode. The build scripts are also provided.
 
 * [libcurl](http://curl.haxx.se/libcurl/) (with HTTP, HTTPS, FTP, FTPS, SCP and SFTP protocols)
 * [libexif](http://libexif.sourceforge.net/)
@@ -20,9 +20,9 @@ This repository contains various open source libraries precompiled as static lib
 Build Environment
 =================
 
-* Xcode 7.x
+* Xcode 8.x
 * OS X SDK 11.0 (minimum deployment version 10.8)
-* iOS SDK 9.0 (minimum deployment version 8.0)
+* iOS SDK 10.0 (minimum deployment version 9.0)
 
 Using the Libraries
 ===================
