@@ -21,7 +21,7 @@ Build Environment
 =================
 
 * Xcode 7.x
-* OS X SDK 11.0 (minimum deployment version 10.8)
+* OS X SDK 13.0 (minimum deployment version 10.8)
 * iOS SDK 9.0 (minimum deployment version 8.0)
 
 Using the Libraries
