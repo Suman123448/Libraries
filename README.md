@@ -20,9 +20,9 @@ This repository contains various open source libraries precompiled as static lib
 Build Environment
 =================
 
-* Xcode 7.x
+* Xcode 8.x
 * OS X SDK 11.0 (minimum deployment version 10.8)
-* iOS SDK 9.0 (minimum deployment version 8.0)
+* iOS SDK 10.0 (minimum deployment version 9.0)
 
 Using the Libraries
 ===================
